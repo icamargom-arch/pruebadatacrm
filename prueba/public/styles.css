@@ -1,0 +1,17 @@
+/* Estilos  para presentación */
+
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+#tabla {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#tabla th, #tabla td {
+    padding: 8px;
+    text-align: left;
+}
